@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\programmering\king\Polymorfism\bin\Debug\net7.0\Polymorfism.exe
+C:\Users\Admin\Documents\programmering\king\Polymorfism\bin\Debug\net7.0\Polymorfism.deps.json
+C:\Users\Admin\Documents\programmering\king\Polymorfism\bin\Debug\net7.0\Polymorfism.runtimeconfig.json
+C:\Users\Admin\Documents\programmering\king\Polymorfism\bin\Debug\net7.0\Polymorfism.dll
+C:\Users\Admin\Documents\programmering\king\Polymorfism\bin\Debug\net7.0\Polymorfism.pdb
+C:\Users\Admin\Documents\programmering\king\Polymorfism\obj\Debug\net7.0\Polymorfism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\programmering\king\Polymorfism\obj\Debug\net7.0\Polymorfism.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\programmering\king\Polymorfism\obj\Debug\net7.0\Polymorfism.AssemblyInfo.cs
+C:\Users\Admin\Documents\programmering\king\Polymorfism\obj\Debug\net7.0\Polymorfism.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\programmering\king\Polymorfism\obj\Debug\net7.0\Polymorfism.dll
+C:\Users\Admin\Documents\programmering\king\Polymorfism\obj\Debug\net7.0\refint\Polymorfism.dll
+C:\Users\Admin\Documents\programmering\king\Polymorfism\obj\Debug\net7.0\Polymorfism.pdb
+C:\Users\Admin\Documents\programmering\king\Polymorfism\obj\Debug\net7.0\Polymorfism.genruntimeconfig.cache
+C:\Users\Admin\Documents\programmering\king\Polymorfism\obj\Debug\net7.0\ref\Polymorfism.dll
